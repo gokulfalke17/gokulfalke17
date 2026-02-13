@@ -70,12 +70,13 @@ I am highly motivated, quick to learn, and always eager to explore technologies 
 ![Spring REST](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
+
 
 ![JDBC](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)
 ![Servlet](https://img.shields.io/badge/Servlet-grey?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-grey?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
 
 ---
 
@@ -108,16 +109,15 @@ I am highly motivated, quick to learn, and always eager to explore technologies 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-orange?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-blue?style=for-the-badge)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-grey?style=for-the-badge)
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-green?style=for-the-badge)
-
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Agile](https://img.shields.io/badge/Agile-grey?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI_CD-blue?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
@@ -157,24 +157,57 @@ I am highly motivated, quick to learn, and always eager to explore technologies 
 
 ## 🚀 Featured Projects
 
-### 🚘 Car Rental System
-Spring Boot + React full-stack application  
-- JWT authentication  
-- Admin approval system  
-- Secure REST APIs  
-- MySQL database  
+## 🚘 Car Rental System (Full-Stack Web Application)
 
-### 🏦 Bank Management System
-Java SE 17 ATM application  
-- JDBC integration  
-- Transaction security  
-- JUnit 5 testing  
+A complete full-stack web application built using Spring Boot, Spring Security, MySQL, React, and Bootstrap.
 
-### 🍽 Restaurant Order Management
-Console-based Java application  
-- Java Collections  
-- JDBC  
-- MySQL  
+Developed secure REST APIs with JWT-based authentication
+
+Implemented car booking, search, and admin approval workflow
+
+Designed normalized MySQL database schema
+
+Integrated backend APIs with React frontend
+
+Followed clean architecture principles and proper exception handling
+
+Focused on scalable design and secure user management
+
+This project strengthened my understanding of backend API development, authentication, and full-stack integration.
+
+## 🏦 Bank Management System (ATM Application – Java SE 17)
+
+A Java-based ATM system built using Java SE 17, JDBC, and MySQL, focusing on secure transaction handling.
+
+Implemented login authentication, deposit, withdrawal, PIN change, and mini statement
+
+Integrated JDBC for seamless database connectivity
+
+Applied input validation and transaction safety measures
+
+Used JCalendar for date handling
+
+Performed unit testing using JUnit 5
+
+Ensured proper exception handling and secure data processing
+
+This project improved my understanding of database transactions and secure financial operations.
+
+## 🍽 Restaurant Order Management System (Console-Based Application)
+
+A console-based Java application developed using Java 8, JDBC, Collections Framework, and MySQL.
+
+Managed dynamic restaurant orders and billing
+
+Implemented modular code structure for maintainability
+
+Designed relational database schema for order tracking
+
+Applied Java Collections for efficient data handling
+
+Focused on structured logic and clean coding practices
+
+This project enhanced my problem-solving skills and strengthened my core Java fundamentals. 
 
 ---
 
