@@ -1,5 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Gokul%20Falke&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -36,20 +34,7 @@ I am passionate about backend engineering, cloud technologies, and distributed s
 
 I enjoy solving complex backend problems and designing reliable, scalable systems.
 
----
 
-# 🏆 Professional Strengths
-
-✔ Strong Core Java (OOP, Collections, Multithreading)  
-✔ Spring Boot Ecosystem Expertise  
-✔ Secure API Implementation  
-✔ Distributed System Fundamentals  
-✔ Database Optimization  
-✔ Docker & Kubernetes Basics  
-✔ Cloud Deployment Knowledge  
-✔ Clean Architecture & SOLID Principles  
-
----
 
 # 🚀 Featured Projects
 
@@ -159,14 +144,14 @@ Console-based modular billing and order management system.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square)
 ![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat-square)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
-
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST-005BEA?style=flat-square)
+
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
 
@@ -220,15 +205,6 @@ Console-based modular billing and order management system.
 
 ---
 
-# 🔥 Currently Exploring
-
-• Advanced System Design  
-• High Concurrency Handling  
-• Distributed Transactions  
-• Observability (Micrometer, Zipkin)  
-• Advanced Kubernetes Concepts  
-
----
 
 # 📊 GitHub Statistics
 
@@ -252,21 +228,15 @@ Console-based modular billing and order management system.
 
 ---
 
-<!-- ===================== CONTACT FOOTER ===================== -->
+# 📫 Connect With Me 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:1a1a1a,100:2C5364&section=header&text=Let's%20Connect&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+📍 Pune, India 
+📧 gokulfalke17@gmail.com 
+🔗 linkedin.com/in/gokul-falke-046a7824a 
+🌐 gokulfalke17.github.io/gokulfalke-portfolio-website 
+📱 +91 7350925310
 
-<h3 align="center">📫 Contact Information</h3>
-
-<p align="center">
-  📍 Pune, Maharashtra, India <br>
-  📧 gokulfalke17@gmail.com <br>
-  📱 +91 7350925310 <br>
-  🌐 <a href="https://gokulfalke17.github.io/gokulfalke-portfolio-website/" target="_blank">Portfolio Website</a> <br>
-  🔗 <a href="https://www.linkedin.com/in/gokul-falke-046a7824a" target="_blank">LinkedIn Profile</a>
-</p>
+---
 
 <br>
 
