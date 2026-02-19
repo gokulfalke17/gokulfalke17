@@ -228,12 +228,12 @@ Console-based modular billing and order management system.
 
 ---
 
-# 📫 Connect With Me 
+# 📫 Connect With Me
 
-📍 Pune, India 
-📧 gokulfalke17@gmail.com 
-🔗 linkedin.com/in/gokul-falke-046a7824a 
-🌐 gokulfalke17.github.io/gokulfalke-portfolio-website 
+📍 Pune, India  
+📧 gokulfalke17@gmail.com  
+🔗 linkedin.com/in/gokul-falke-046a7824a  
+🌐 gokulfalke17.github.io/gokulfalke-portfolio-website  
 📱 +91 7350925310
 
 ---
