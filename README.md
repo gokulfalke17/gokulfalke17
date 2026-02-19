@@ -58,47 +58,82 @@ I enjoy solving complex backend problems and designing reliable, scalable system
 
 # 🚀 Featured Projects
 
+---
+
 ## 🌍 CVS Health – Electronic Prescription Platform
 
-Enterprise healthcare microservices platform handling secure electronic prescription processing.
+Enterprise-scale healthcare microservices platform handling secure electronic prescription processing.
 
-**Highlights:**
-- Prescription intake microservices
-- NCPDP XML validation & transformation
-- Kafka event-driven routing
-- Kubernetes-based deployment
-- Distributed database integration
-- Healthcare compliance validation pipelines
+### Key Highlights
+- Built prescription intake microservices  
+- Implemented NCPDP XML validation & transformation  
+- Kafka-based event-driven routing  
+- Kubernetes-based cloud deployment  
+- High-volume distributed data processing  
+- Business rule engine implementation  
 
-**Tech:** Java • Spring Boot • Kafka • Microservices • Kubernetes • REST APIs
+**Tech Stack:** Java • Spring Boot • Kafka • Microservices • Kubernetes • REST APIs
 
 ---
 
 ## 📚 Library Management System (Full-Stack)
 
-Secure and scalable library system with fine calculation & role-based access.
+Scalable web application for managing book inventory, users, and borrowing lifecycle.
 
-**Tech:** Java • Spring Boot • Spring Security • JPA • MySQL • React
+### Key Features
+- Role-based authentication with Spring Security  
+- Automated fine calculation logic  
+- REST API integration with React frontend  
+- Clean layered architecture  
+- Real-time inventory management  
+- Global exception handling & validation  
+
+**Tech Stack:** Java • Spring Boot • Spring Security • JPA • MySQL • React
 
 ---
 
 ## 🚘 Car Rental System (Full-Stack)
 
-JWT-secured booking and vehicle management platform.
+Secure booking and vehicle management system with admin workflow.
 
-**Tech:** Spring Boot • JWT • MySQL • React • Bootstrap
+### Key Features
+- JWT Authentication  
+- Booking lifecycle management  
+- Clean architecture & separation of concerns  
+- Optimized database design  
+- Full-stack integration  
+
+**Tech Stack:** Spring Boot • JWT • MySQL • React • Bootstrap
 
 ---
 
 ## 🏦 Bank Management System (ATM – Java 17)
 
-Secure desktop banking application with transaction handling.
+GUI-based desktop banking application with secure transaction handling.
+
+### Key Features
+- Secure login & PIN validation  
+- Deposit & withdrawal processing  
+- Transaction history & mini statement  
+- JDBC integration  
+- JUnit testing  
+
+**Tech Stack:** Java 17 • Swing • JDBC • MySQL
 
 ---
 
 ## 🍽 Restaurant Order Management System
 
-Console-based structured billing and order system.
+Console-based modular billing and order management system.
+
+### Key Features
+- Structured OOP design  
+- Billing & tax logic  
+- Database-backed transaction storage  
+- Email notifications  
+- Modular architecture  
+
+**Tech Stack:** Java 8 • JDBC • MySQL • Collections Framework
 
 ---
 
@@ -114,6 +149,7 @@ Console-based structured billing and order system.
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square)
 ![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat-square)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+
 ![REST APIs](https://img.shields.io/badge/REST-005BEA?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka)
@@ -128,8 +164,6 @@ Console-based structured billing and order system.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
 ---
@@ -140,6 +174,7 @@ Console-based structured billing and order system.
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonaws)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonaws)
+
 ![IAM](https://img.shields.io/badge/IAM-FF4F00?style=flat-square&logo=amazonaws)
 ![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square)
@@ -153,6 +188,7 @@ Console-based structured billing and order system.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
 ![CI/CD](https://img.shields.io/badge/CI_CD-0A66C2?style=flat-square)
+
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square)
