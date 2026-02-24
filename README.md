@@ -75,9 +75,12 @@ Enterprise-scale **healthcare microservices platform** handling secure electroni
 - ✅ Business rule engine implementation
 
 **💻 Tech Stack:**  
+
 `Java` • `Spring Boot` • `Kafka` • `Microservices` • `Kubernetes` • `REST APIs`
 
 </div>
+
+<br>
 
 ### 📚 **Library Management System (Full-Stack)**
 
@@ -94,9 +97,12 @@ Scalable web application for managing book inventory, users, and borrowing lifec
 - ✅ Global exception handling & validation
 
 **💻 Tech Stack:**  
+
 `Java` • `Spring Boot` • `Spring Security` • `JPA` • `MySQL` • `React`
 
 </div>
+
+<br>
 
 ### 🚘 **Car Rental System (Full-Stack)**
 
@@ -111,28 +117,14 @@ Secure booking and vehicle management system with admin workflow.
 - ✅ Optimized database design
 - ✅ Full-stack integration
 
-**💻 Tech Stack:**  
+**💻 Tech Stack:** 
+
 `Spring Boot` • `JWT` • `MySQL` • `React` • `Bootstrap`
 
 </div>
 
-### 🏦 **Bank Management System (ATM – Java 17)**
+<br>
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; border-left: 4px solid #00BFFF;">
-
-GUI-based desktop banking application with secure transaction handling.
-
-**🎯 Key Features:**
-- ✅ Secure login & PIN validation
-- ✅ Deposit & withdrawal processing
-- ✅ Transaction history & mini statement
-- ✅ JDBC integration
-- ✅ JUnit testing
-
-**💻 Tech Stack:**  
-`Java 17` • `Swing` • `JDBC` • `MySQL`
-
-</div>
 
 ### 🍽️ **Restaurant Order Management System**
 
@@ -148,7 +140,29 @@ Console-based modular billing and order management system.
 - ✅ Modular architecture
 
 **💻 Tech Stack:**  
+
 `Java 8` • `JDBC` • `MySQL` • `Collections Framework`
+
+</div>
+
+<br>
+
+### 🏦 **Bank Management System (ATM – Java 17)**
+
+<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; border-left: 4px solid #00BFFF;">
+
+GUI-based desktop banking application with secure transaction handling.
+
+**🎯 Key Features:**
+- ✅ Secure login & PIN validation
+- ✅ Deposit & withdrawal processing
+- ✅ Transaction history & mini statement
+- ✅ JDBC integration
+- ✅ JUnit testing
+
+**💻 Tech Stack:**  
+
+`Java 17` • `Swing` • `JDBC` • `MySQL`
 
 </div>
 
@@ -247,19 +261,21 @@ Console-based modular billing and order management system.
 
 ---
 
-## 📌 Professional Highlights
+## 🚀 Technical Expertise & Engineering Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-Java%20Backend%20Engineering-0A66C2?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Architecture-Microservices%20%7C%20Event%20Driven-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Senior%20Java%20Backend%20Engineer-0A66C2?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems%20%7C%20Microservices%20Architecture-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Event%20Driven%20Design%20%7C%20Scalable%20APIs-4169E1?style=for-the-badge" />
 </p>
 
+<br/>
 
-<br>
+## 📊 Development Analytics & Language Distribution
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulfalke17&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulfalke17&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulfalke17&theme=tokyonight" height="240" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokulfalke17&theme=tokyonight" height="240" />
 </p>
 
 ---
