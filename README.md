@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;🏗️+Spring+Boot+Specialist;🚀+Microservices+Architect;☁️+Cloud-Native+Engineer;🔧+Backend+Systems+Expert" alt="Typing Animation"/>
 </h3>
 
-<br>
+<br/>
 
 <br>
 
@@ -29,6 +29,8 @@
 
 
 ---
+
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -54,7 +56,7 @@ I am committed to continuous learning, improving system design skills, and build
 
 ---
 
-
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -80,7 +82,7 @@ Enterprise-scale **healthcare microservices platform** handling secure electroni
 
 </div>
 
-<br>
+<br/>
 
 ### 📚 **Library Management System (Full-Stack)**
 
@@ -102,7 +104,7 @@ Scalable web application for managing book inventory, users, and borrowing lifec
 
 </div>
 
-<br>
+<br/>
 
 ### 🚘 **Car Rental System (Full-Stack)**
 
@@ -123,7 +125,7 @@ Secure booking and vehicle management system with admin workflow.
 
 </div>
 
-<br>
+<br/>
 
 
 ### 🍽️ **Restaurant Order Management System**
@@ -145,7 +147,7 @@ Console-based modular billing and order management system.
 
 </div>
 
-<br>
+<br/>
 
 ### 🏦 **Bank Management System (ATM – Java 17)**
 
@@ -170,6 +172,7 @@ GUI-based desktop banking application with secure transaction handling.
 
 ---
 
+<br/>
 
 ## 💻 Technical Skills
 
@@ -248,6 +251,8 @@ GUI-based desktop banking application with secure transaction handling.
 
 ---
 
+<br/>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -261,17 +266,15 @@ GUI-based desktop banking application with secure transaction handling.
 
 ---
 
-## 🚀 Technical Expertise & Engineering Impact
+<br/>
+
+## 🚀 Technical Expertise |  📊 Language Distribution
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Senior%20Java%20Backend%20Engineer-0A66C2?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems%20%7C%20Microservices%20Architecture-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Event%20Driven%20Design%20%7C%20Scalable%20APIs-4169E1?style=for-the-badge" />
 </p>
-
-<br/>
-
-## 📊 Development Analytics & Language Distribution
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokulfalke17&theme=tokyonight" height="240" />
@@ -280,6 +283,7 @@ GUI-based desktop banking application with secure transaction handling.
 
 ---
 
+<br/>
 
 ## 📈 Contribution Activity
 
@@ -290,6 +294,8 @@ GUI-based desktop banking application with secure transaction handling.
 </p>
 
 ---
+
+<br/>
 
 ## 📫 Connect With Me
 
@@ -302,6 +308,7 @@ GUI-based desktop banking application with secure transaction handling.
 </div>
 
 ---
+
 
 <br>
 
