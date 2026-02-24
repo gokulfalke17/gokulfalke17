@@ -245,11 +245,6 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Kubernetes-2C5364?style=for-the-badge"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulfalke17&theme=tokyonight" />
-</p>
 
 <br>
 
