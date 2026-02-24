@@ -56,6 +56,11 @@ I am committed to continuous learning, improving system design skills, and build
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td>
+
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
 ### 🌍 **CVS Health – Electronic Prescription Platform**
@@ -151,6 +156,10 @@ Console-based modular billing and order management system.
 </div>
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
