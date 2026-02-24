@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0:0F2027,50:203A43,100:2C5364&text=Gokul%20Falke&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&section=header" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=gokulfalke17&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
-</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;🏗️+Spring+Boot+Specialist;🚀+Microservices+Architect;☁️+Cloud-Native+Engineer;🔧+Backend+Systems+Expert" alt="Typing Animation"/>
@@ -33,6 +30,11 @@
 ---
 
 ## 👨‍💻 About Me
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gokulfalke17&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
+</p>
+
 
 <table>
 <tr>
