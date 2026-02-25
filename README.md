@@ -56,22 +56,6 @@ I am committed to continuous learning, improving system design skills, and build
 
 ---
 
-
-<br/>
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gokulfalke17/gokulfalke17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <sub>⚡ Dynamic visualization of my daily GitHub contributions</sub>
-</p>
-
----
-
-
 <br/>
 
 ## 💻 Technical Skills
