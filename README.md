@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0:0F2027,50:203A43,100:2C5364&text=Gokul%20Falke&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&section=header" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,3,5,6&text=Gokul%20Falke&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Microservices%20Architect&descSize=18&descAlignY=52&section=header" />
 </p>
 
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;🚀+Microservices+%26+Cloud+Architect;💻+Building+Scalable+Solutions;🔧+Spring+Boot+%7C+React+%7C+AWS" alt="Typing Animation"/>
 </h3>
+
+<br/>
 
 <br/>
 
