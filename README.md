@@ -201,10 +201,30 @@ I am committed to continuous learning, improving system design skills, and build
 </p>
 
 
+<div align="center">
+
+### ⭐ If you find my work interesting, consider giving a star! ⭐
+
+### 💬 Let's build something amazing together! 💬
+
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:1a1a1a,100:000000&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,5,6&section=footer" />
 </p>
 
 <p align="center">
-  <sub>⭐ If you find my work interesting, consider giving a star! ⭐</sub>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
+
+<div align="center">
+  
+  ![Made with ❤️ by Gokul Falke](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Gokul%20Falke-00D9FF?style=for-the-badge)
+  
+  <sub>⚡ Powered by passion, driven by code ⚡</sub>
+  
+</div>
+
