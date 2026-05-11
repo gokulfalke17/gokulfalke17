@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;🚀+Microservices+%26+Cloud+Architect;💻+Building+Scalable+Solutions;🔧+Spring+Boot+%7C+React+%7C+AWS" alt="Typing Animation"/>
 </h3>
 
-<br/>
-
-<br/>
 
 <br>
 
